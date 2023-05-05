@@ -19,7 +19,7 @@ Se você quiser contribuir para este repositório, sinta-se à vontade para abri
 
 ## Licença
 
-Este repositório é licenciado sob a licença MIT. Você pode usar o conteúdo deste repositório para fins `educacionais` e não comerciais, desde que inclua a atribuição adequada. Consulte o arquivo LICENSE para obter mais informações.
+Este repositório é licenciado sob a licença MIT. Você pode usar o conteúdo deste repositório para fins `educacionais` e não comerciais, desde que inclua a atribuição adequada. Consulte o arquivo [LICENSE](https://github.com/ComGuide/.github/blob/main/LICENSE) para obter mais informações.
 
 ## Contato
 
