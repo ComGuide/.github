@@ -6,10 +6,10 @@
 Este é um repositório de conteúdo e informações para alunos de ciência da computação. Aqui você encontrará recursos úteis para ajudá-lo a aprender sobre tópicos relacionados a ciência da computação, como programação, algoritmos, estruturas de dados, redes e muito mais.
 
 Tópicos abordados neste Readme
-- [Como usar este repositório](#Como-usar-este-repositório)
-- [Como contribuir para este repositório](#Como-contribuir-para-este-repositório)
-- [Licença](#Licença)
-- [Contato](#Contato)
+- [Como usar este repositório](#-Como-usar-este-repositório)
+- [Como contribuir para este repositório](#-Como-contribuir-para-este-repositório)
+- [Licença](#-Licença)
+- [Contato](#-Contato)
 
 ## 📚 Como usar este repositório
 
